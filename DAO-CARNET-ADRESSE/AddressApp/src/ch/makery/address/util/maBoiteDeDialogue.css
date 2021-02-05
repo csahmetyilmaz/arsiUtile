@@ -1,0 +1,23 @@
+.maBoiteDeDialogue{
+    -fx-background-color: derive(#1d1d1d,20%);
+}
+.maBoiteDeDialogue > *.button-bar > *.container{
+    -fx-background-color: derive(#1d1d1d,50%);
+}
+.maBoiteDeDialogue > *.label.content{
+	-fx-font-size: 14pt;
+    -fx-font-family: "Segoe UI Light";
+    -fx-text-fill: red;
+    -fx-opacity: 0.9;
+    -fx-font-weight: bold;
+}
+.maBoiteDeDialogue:header *.header-panel{
+    -fx-background-color:#1d1d1d;
+    -fx-text-fill: red;
+}
+.maBoiteDeDialogue:header *.header-panel *.label{
+    -fx-font-size: 18px;
+    -fx-font-style: italic;
+    -fx-fill: #292929;
+    -fx-text-fill: red;
+}

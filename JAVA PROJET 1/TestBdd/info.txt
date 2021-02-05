@@ -1,0 +1,7 @@
+-> User image ekleyecez
+*Eger resim eklenmezse imgDefault.png bizim progil resmimiz olacak **OK
+*controller ile resmi eklettir
+*handle fonksiyonu ile bi butona resim dosyası sectirecez
+*secilen yolu mysql e ekleyecez
+*resim dosyasını mysql e kaydettigimiz yer projenin icinde bi yer olmalı
+*o adrese resmin orjinalini kopyalayacaz

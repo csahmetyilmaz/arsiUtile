@@ -1,0 +1,8 @@
+Application de base avec : 
+-Suppression des warnings sur la version de javaFX
+-Gestion d'un icone différent
+-Rajout du module de Filtre - recherche
+-Rajout du DATE PICKER
+-Gestion de la régression de la fonctionnalité de suppression d'une personne
+-Rajout d'un Id et d'un compteur statique pour des besoins futurs
+-Gestion d'un theme particulier en css pour la boite de dialogue
