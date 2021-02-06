@@ -1,0 +1,16 @@
+#btn_update{
+	-fx-background-color:#ff8000;
+}
+#btn_delete{
+	-fx-background-color:#ff0000;
+}
+#btn_add{
+	-fx-background-color:#0000ff;
+}
+
+#btn_new{
+	-fx-background-color:#5af542;
+}
+#idRoot{
+	-fx-background-color: linear-gradient(to right, #00c6ff, #0072ff);
+}
